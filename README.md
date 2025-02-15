@@ -94,30 +94,10 @@ The following datasets are used in this project:
 ## **Evaluation Metrics**
 ### **1. Accuracy**
 - Measures the proportion of correctly predicted instances.
-- Formula:
-  \[
-  \text{Accuracy} = \frac{\text{True Positives (TP)} + \text{True Negatives (TN)}}{\text{TP} + \text{TN} + \text{False Positives (FP)} + \text{False Negatives (FN)}}
-  \]
-
 ### **2. ROC-AUC**
 - Measures the model's ability to distinguish between classes across all thresholds.
-- Formula:
-  - **TPR (True Positive Rate)**:
-    \[
-    \text{TPR} = \frac{\text{TP}}{\text{TP} + \text{FN}}
-    \]
-  - **FPR (False Positive Rate)**:
-    \[
-    \text{FPR} = \frac{\text{FP}}{\text{FP} + \text{TN}}}
-    \]
-  - AUC is the area under the ROC curve.
-
 ### **3. F1 Score**
 - Harmonic mean of Precision and Recall.
-- Formula:
-  \[
-  \text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
-  \]
 
 ---
 
