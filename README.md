@@ -146,14 +146,9 @@ The following datasets are used in this project:
 
 ---
 
-## **Conclusion**
-- Both approaches perform well, but **Approach 1 (Classification Models)** is faster and easier to interpret.
-- **Approach 2 (Neural Networks)** is more powerful for complex datasets but requires more computational resources.
-
 
 ## **Author**
-- [Arpitha Thippeswamy]
-- Contact: [arpitha.thipeswamy@gmail.com]
+- Arpitha Thippeswamy
 
 ---
 
